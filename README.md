@@ -7,7 +7,7 @@
    Atualmente em <strong>Joinville - Santa Catarina</strong> <br>
    Estudante do <strong>IFC - Campus Araquari</strong> <br>
    Curso Técnico em Informática para Internet <br>
-   Tenho <strong>16 anos</strong>
+   Tenho <strong>17 anos</strong>
 </p>
 
 ---
@@ -33,6 +33,7 @@
   <img align="center" alt="Rodolpho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rodolpho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodolpho-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="Rodolpho-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
