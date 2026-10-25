@@ -1,92 +1,93 @@
-<h1 align="center">Olá, eu sou o Rodolpho!</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de Informática para Internet no IFC <br>
-  Interesse maior em front-end, mas também explorando back-end e desenvolvimento web como um todo.
-</p>
+<h1>Oi, eu sou o Rodolpho! </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rodolpho-da-silva-rocha-6a9a362b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rodolpho.r2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rodolphorocha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou estudante do 3º ano do curso Técnico em Informática para Internet no Instituto Federal Catarinense (IFC).
-
-Tenho mais interesse na parte de front-end, principalmente com Vue.js e JavaScript, mas também venho aprendendo e trabalhando com Django, APIs REST e outras áreas do desenvolvimento web.
-
-Participei de projetos importantes durante minha formação, como o **OPES**, desenvolvido como Trabalho de Conclusão de Curso, e o **Momentum**, criado durante o Hackathon 2026 do IFC, no qual minha equipe conquistou o **3º lugar**.
-
----
-
-## Tecnologias que utilizo
-
-### Front-end
 <p>
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <strong>Estudante de Informática para Internet no IFC — Campus Araquari</strong><br>
+  Desenvolvimento web • Vue.js • JavaScript • Django
 </p>
 
-**HTML · CSS · JavaScript · Vue.js**
+<a href="https://www.linkedin.com/in/rodolpho-da-silva-rocha-6a9a362b8/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rodolpho.r2008@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/rodolphorocha?tab=repositories">
+  <img alt="Meus repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-21262D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### Back-end
-<p>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</p>
+</div>
 
-**Python · Django · Django REST Framework · APIs REST**
+### Sobre mim
+Sou estudante do 3º ano do curso Técnico em Informática para Internet, integrado ao Ensino Médio, no Instituto Federal Catarinense (IFC).
 
-### Ferramentas
-<p>
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</p>
+Tenho mais interesse em desenvolvimento front-end, principalmente com Vue.js e JavaScript, mas também busco ampliar meus conhecimentos em Django, APIs REST e outras áreas do desenvolvimento web.
 
-**Git · GitHub · VS Code**
+Durante minha formação, participei de projetos como o OPES, um sistema de gestão financeira desenvolvido como Trabalho de Conclusão de Curso (TCC), e o Momentum, uma plataforma de gerenciamento de projetos criada durante o Hackathon 2026 do IFC, no qual minha equipe conquistou o 3º lugar.
+### Tecnologias e ferramentas
+<table>
+  <tr>
+    <td width="36%" align="center" valign="top">
+      <h3>Front-end</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,vue&theme=dark" alt="HTML, CSS, JavaScript e Vue.js" /><br><br>
+      <sub>HTML • CSS • JavaScript • Vue.js</sub>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <h3>Back-end e APIs</h3>
+      <img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python e Django" /><br><br>
+      <sub>Django • Django REST Framework • APIs REST</sub>
+    </td>
+    <td width="32%" align="center" valign="top">
+      <h3>Ferramentas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" /><br><br>
+      <sub>Git • GitHub • VS Code</sub>
+    </td>
+  </tr>
+</table>
 
----
+### Projetos em destaque
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://opess.vercel.app/">
+        <img src="https://raw.githubusercontent.com/TCC-OPES/frontend-opes/main/public/icons/logo.png" width="92" alt="Logo do OPES" />
+      </a>
+      <h3>OPES</h3>
+      <p><strong>Sistema de Gestão Financeira</strong></p>
+      <p>Projeto de Conclusão de Curso desenvolvido em equipe no IFC, voltado ao controle de receitas, despesas e metas financeiras.</p>
+      <p>
+        <a href="https://opess.vercel.app/"><img alt="Ver site do OPES" src="https://img.shields.io/badge/Ver_site-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/TCC-OPES"><img alt="Código do OPES" src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://momentum-sable-seven.vercel.app/">
+        <img src="https://raw.githubusercontent.com/Hackaton-2026-IFC/Frontend-Hackathon/master/public/icons/momentum-com-fundo.png" width="92" alt="Logo do Momentum" />
+      </a>
+      <h3>Momentum</h3>
+      <p><strong>Gerenciamento de Projetos</strong></p>
+      <p>Plataforma para organizar projetos e tarefas. Participei principalmente do front-end durante o Hackathon 2026 do IFC.</p>
+      <p><strong>🏆 3º lugar no Hackathon 2026</strong></p>
+      <p>
+        <a href="https://momentum-sable-seven.vercel.app/"><img alt="Ver site do Momentum" src="https://img.shields.io/badge/Ver_site-0A66C2?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Hackaton-2026-IFC"><img alt="Código do Momentum" src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Projetos em destaque
+### Meu GitHub
+<div align="center">
 
-### 💰 OPES — Sistema de Gestão Financeira
-Projeto desenvolvido como Trabalho de Conclusão de Curso no IFC, com foco em organização e controle de finanças pessoais.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodolphorocha&theme=tokyonight" height="170" alt="Estatísticas do GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodolphorocha&theme=tokyonight" height="170" alt="Linguagens dos repositórios" />
 
-- 🔗 [Acessar o site](https://opess.vercel.app/)
-- 💻 [Ver repositórios](https://github.com/TCC-OPES)
+### Atividade ao longo do tempo
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodolphorocha&theme=tokyonight" width="100%" alt="Gráfico de contribuições ao longo do tempo" />
 
-### 📋 Momentum — Plataforma de Gerenciamento de Projetos
-Projeto criado durante o Hackathon 2026 do IFC. A plataforma foi desenvolvida em equipe e conquistou o **3º lugar** na competição.
+</div>
 
-- 🔗 [Acessar o site](https://momentum-sable-seven.vercel.app/)
-- 💻 [Ver repositórios](https://github.com/Hackaton-2026-IFC)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rodolphorocha&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolphorocha&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Contato
-
-- **LinkedIn:** [rodolpho-da-silva-rocha-6a9a362b8](https://www.linkedin.com/in/rodolpho-da-silva-rocha-6a9a362b8/)
-- **GitHub:** [github.com/rodolphorocha](https://github.com/rodolphorocha)
-- **E-mail:** rodolpho.r2008@gmail.com
+<div align="center">
+  <sub>📍 Joinville, SC • Aberto a aprender e construir novos projetos</sub>
+</div>
